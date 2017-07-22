@@ -1,0 +1,19 @@
+{
+  "name": "smart-meter",
+  "description": "Smart Meter Client Web",
+  "main": "src/index.html",
+  "authors": [
+    "renukapiyumal@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "src/index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
