@@ -1,4 +1,4 @@
-# BusTicketing_Ballerina
+# Smart BusTicketing System - Ballerina
 
 
 This is a modern online bus ticketing system which we are introducing to Sri Lanka
